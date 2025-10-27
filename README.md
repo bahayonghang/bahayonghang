@@ -5,7 +5,7 @@
 ## Hi there, I'm **bahayonghang**! 👋
 
 **PhD Student · Industrial Control & Deep Learning**  
-**Location:** Qin Huang Dao Shi, He Bei Sheng  
+
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bahayonghang@gmail.com)
 ![](https://img.shields.io/badge/ORCID-0000--0002--6531--636X-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 ![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
