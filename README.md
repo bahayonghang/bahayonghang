@@ -92,6 +92,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahayonghang&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&width=100%" alt="Contribution Activity Graph"/>
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <div align="center">
