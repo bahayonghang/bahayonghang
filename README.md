@@ -66,10 +66,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=bahayonghang&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+      <img src="assets/github-stats/overview.svg" width="100%" alt="GitHub Overview"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahayonghang&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=400" height="180" alt="Top Languages"/>
+      <img src="assets/github-stats/languages.svg" width="100%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -79,9 +79,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahayonghang&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
 </div>
 
-<!-- GitHub Trophies -->
+<!-- Featured Projects -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahayonghang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="assets/github-stats/featured.svg" width="100%" alt="Featured Projects"/>
 </div>
 
 ---

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages</title>
+  <desc id="desc">Top languages across owned GitHub repositories.</desc>
+  <style>
+    text {
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    }
+  </style>
+  <rect width="420" height="180" rx="18" fill="#0D1117" />
+  <text x="24" y="34" fill="#C9D1D9" font-size="20" font-weight="700">Top Languages</text>
+  <text x="24" y="54" fill="#8B949E" font-size="12">Fallback view based on primary repository languages</text>
+  
+            <circle cx="30" cy="64" r="5" fill="#58A6FF" />
+            <text x="44" y="68" fill="#C9D1D9" font-size="12" font-weight="600">README</text>
+            <rect x="150" y="57" width="190" height="10" rx="5" fill="#161B22" />
+            <rect x="150" y="57" width="190" height="10" rx="5" fill="#58A6FF" />
+            <text x="390" y="68" fill="#8B949E" font-size="12" text-anchor="end">100.0%</text>
+            
+</svg>

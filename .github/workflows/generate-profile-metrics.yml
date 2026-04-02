@@ -1,0 +1,54 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - ".github/scripts/generate-profile-metrics.py"
+      - ".github/workflows/generate-profile-metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate repo-hosted SVG assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/generate-profile-metrics.py
+
+      - name: Commit refreshed assets
+        run: |
+          if git diff --quiet -- assets/github-stats; then
+            echo "No asset changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats/*.svg
+          git commit -m "Refresh profile metrics assets
+
+          Update the repo-hosted SVG cards that back the profile README so the
+          GitHub page keeps rendering even when third-party widget endpoints fail.
+
+          Constraint: Profile README metrics must remain GitHub-hosted and low-maintenance
+          Confidence: high
+          Scope-risk: narrow
+          Directive: Keep generated asset filenames stable because README references them directly
+          Tested: GitHub Actions script execution
+          Not-tested: Manual profile-page visual review"
+          git push

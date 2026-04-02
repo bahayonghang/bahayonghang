@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-labelledby="title desc">
+  <title id="title">Featured repositories</title>
+  <desc id="desc">Featured repositories based on stars and recent activity.</desc>
+  <style>
+    text {
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    }
+  </style>
+  <rect width="900" height="160" rx="18" fill="#0D1117" />
+  <text x="24" y="34" fill="#C9D1D9" font-size="20" font-weight="700">Featured Projects</text>
+  <text x="24" y="54" fill="#8B949E" font-size="12">Pinned automatically from public repositories with the strongest signal</text>
+  
+            <rect x="24" y="56" width="260" height="88" rx="14" fill="#161B22" stroke="#30363D" />
+            <text x="40" y="82" fill="#C9D1D9" font-size="15" font-weight="700">bahayonghang</text>
+            <text x="40" y="104" fill="#8B949E" font-size="11">Profile metrics refresh</text>
+            <text x="40" y="118" fill="#8B949E" font-size="11">automatically in GitHub</text>
+            <text x="40" y="130" fill="#58A6FF" font-size="11">Stars 0</text>
+            <text x="108" y="130" fill="#7EE787" font-size="11">Forks 0</text>
+            <text x="268" y="130" fill="#8B949E" font-size="11" text-anchor="end">README</text>
+            
+</svg>
