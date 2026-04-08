@@ -1,79 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236" role="img" aria-labelledby="title desc">
-  <title id="title">Profile overview</title>
-  <desc id="desc">Overview card for bahayonghang with research and repository summary.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub overview</title>
+  <desc id="desc">Overview card for bahayonghang with repository and contribution summary.</desc>
   <style>
-    .sans {
+    text {
       font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
     }
-    .serif {
-      font-family: Georgia, 'Times New Roman', serif;
-    }
-    .eyebrow {
-      fill: #8FB4FF;
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 2px;
-    }
-    .title {
-      fill: #ECF2FF;
-      font-size: 24px;
-      font-weight: 700;
-    }
-    .subtitle {
-      fill: #9DA9BF;
-      font-size: 12px;
-    }
-    .panel {
-      fill: #151E2D;
-      stroke: #2C3A52;
-    }
-    .panel-soft {
-      fill: #1B2638;
-      stroke: #2C3A52;
-    }
-    .panel-title {
-      fill: #ECF2FF;
-      font-size: 16px;
-      font-weight: 700;
-    }
-    .label {
-      fill: #9DA9BF;
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 1.3px;
-    }
-    .value {
-      fill: #ECF2FF;
-      font-size: 20px;
-      font-weight: 700;
-    }
-    .note {
-      fill: #9DA9BF;
-      font-size: 11px;
-    }
-    .small {
-      fill: #9DA9BF;
-      font-size: 10px;
-    }
   </style>
-  <rect width="420" height="236" rx="24" fill="#0F1623" />
-  <rect x="1" y="1" width="418" height="234" rx="23" fill="none" stroke="#2C3A52" />
-  <line x1="28" y1="80" x2="392" y2="80" stroke="#2C3A52" />
-  <text x="28" y="36" class="eyebrow sans">PROFILE</text><text x="28" y="62" class="title serif">Research Snapshot</text><text x="28" y="100" class="subtitle sans">Industrial control, deep learning, and systems-minded research engineering.</text><text x="28" y="118" class="subtitle sans">GitHub API rate-limited locally | the workflow will refresh live metrics automatically</text>
-            <rect x="28" y="132" width="176" height="40" rx="14" class="panel-soft" />
-            <text x="44" y="148" class="label sans">FOLLOWERS</text>
-            <text x="44" y="164" fill="#8FB4FF" font-size="20" font-weight="700" class="sans">0</text>
+  <rect width="420" height="180" rx="18" fill="#0D1117" />
+  <text x="24" y="34" fill="#C9D1D9" font-size="20" font-weight="700">Profile Overview</text>
+  <text x="24" y="54" fill="#8B949E" font-size="12">Joined Jun 2021 - 20 total forks across owned repositories</text>
+  
+            <rect x="24" y="72" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
+            <text x="40" y="90" fill="#8B949E" font-size="11">Followers</text>
+            <text x="40" y="107" fill="#58A6FF" font-size="18" font-weight="700">7</text>
             
-            <rect x="216" y="132" width="176" height="40" rx="14" class="panel-soft" />
-            <text x="232" y="148" class="label sans">PUBLIC REPOS</text>
-            <text x="232" y="164" fill="#8BC7A8" font-size="20" font-weight="700" class="sans">1</text>
+            <rect x="220" y="72" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
+            <text x="236" y="90" fill="#8B949E" font-size="11">Public Repos</text>
+            <text x="236" y="107" fill="#7EE787" font-size="18" font-weight="700">23</text>
             
-            <rect x="28" y="184" width="176" height="40" rx="14" class="panel-soft" />
-            <text x="44" y="200" class="label sans">STARS EARNED</text>
-            <text x="44" y="216" fill="#F3B37A" font-size="20" font-weight="700" class="sans">0</text>
+            <rect x="24" y="124" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
+            <text x="40" y="142" fill="#8B949E" font-size="11">Stars Earned</text>
+            <text x="40" y="159" fill="#F778BA" font-size="18" font-weight="700">232</text>
             
-            <rect x="216" y="184" width="176" height="40" rx="14" class="panel-soft" />
-            <text x="232" y="200" class="label sans">MERGED PRS</text>
-            <text x="232" y="216" fill="#E7A1A1" font-size="20" font-weight="700" class="sans">0</text>
-            <text x="392" y="228" class="small sans" text-anchor="end">Updated 2026-04-02 08:22 UTC</text>
+            <rect x="220" y="124" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
+            <text x="236" y="142" fill="#8B949E" font-size="11">Merged PRs</text>
+            <text x="236" y="159" fill="#D2A8FF" font-size="18" font-weight="700">11</text>
+            
+  <text x="396" y="164" fill="#8B949E" font-size="10" text-anchor="end">Updated 2026-04-08 03:32 UTC</text>
 </svg>
