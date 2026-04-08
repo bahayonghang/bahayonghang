@@ -1,14 +1,20 @@
 <!-- Profile views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bahayonghang&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bahayonghang&color=0e75b6&style=flat-square" alt="Profile views" onerror="this.style.display='none'"/>
 </p>
 
 <!-- Animated Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+bahayonghang!;PhD+Student+%C2%B7+Industrial+Control;Deep+Learning+Researcher;Rust+%7C+Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+bahayonghang!;PhD+Student+%C2%B7+Industrial+Control;Deep+Learning+Researcher;Rust+%7C+Python+Developer" alt="Typing SVG" onerror="this.style.display='none'" />
   </a>
 </div>
+
+<!-- SEO-friendly description -->
+<p align="center">
+  <strong>bahayonghang</strong> — PhD student researching <em>Industrial Control</em> &amp; <em>Deep Learning</em>. 
+  Rust &amp; Python developer, Linux enthusiast, and open-source contributor.
+</p>
 
 <!-- Social Badges -->
 <p align="center">
@@ -20,6 +26,12 @@
   </a>
   <a href="https://github.com/bahayonghang">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -60,48 +72,61 @@
 
 ---
 
+## 📚 Research & Publications
+
+🔍 **Research Interests**: Industrial Control · Deep Learning · Rust Systems Programming
+
+📄 **Selected Publications**:
+
+1. **Y. Li** et al., "Predictive Monitoring of Industrial Processes and Quality Indices via Joint Training of Soft Sensor and Time-Series Forecasting," *IEEE Transactions on Industrial Informatics*, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11410600)
+
+2. **Y. Li** et al., "Enhancing Cement Clinker Quality Prediction through Integrated Convolutional and Recurrent Neural Networks with Adversarial Data Augmentation," *Engineering Research Express*, 2025. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1568494624005465)
+
+> 📖 Full list available on [Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/0000-0002-6531-636X)
+
+---
+
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Row -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/github-stats/overview.svg" width="100%" alt="GitHub Overview"/>
+      <img src="assets/github-stats/overview.svg" width="100%" alt="GitHub Overview" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
+      <p style="display:none; color:#888;">GitHub Overview (generate via GitHub Actions)</p>
     </td>
     <td align="center" width="50%">
-      <img src="assets/github-stats/languages.svg" width="100%" alt="Top Languages"/>
+      <img src="assets/github-stats/languages.svg" width="100%" alt="Top Languages" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
+      <p style="display:none; color:#888;">Top Languages (generate via GitHub Actions)</p>
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahayonghang&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=bahayonghang&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
+  <p style="display:none; color:#888;">GitHub Streak Stats unavailable (service temporarily down)</p>
 </div>
 
 <!-- Featured Projects -->
-<div align="center">
-  <img src="assets/github-stats/featured.svg" width="100%" alt="Featured Projects"/>
+<div align="center" style="overflow-x: auto; max-width: 100%;">
+  <img src="assets/github-stats/featured.svg" style="min-width: 600px; width: 100%;" alt="Featured Projects" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
+  <p style="display:none; color:#888;">Featured Projects (generate via GitHub Actions)</p>
 </div>
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahayonghang&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&width=100%" alt="Contribution Activity Graph"/>
-</div>
 
 ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bahayonghang/bahayonghang/output/github-contribution-grid-snake.svg" onerror="this.alt='🐍 Snake animation unavailable — enable GitHub Actions to generate'"/>
 </picture>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer"/>
+  <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #58A6FF, transparent);"/>
+  <p><em>⚡ Powered by curiosity and open-source ⚡</em></p>
 </div>
