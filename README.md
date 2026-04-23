@@ -82,6 +82,8 @@
 
 2. **Y. Li** et al., "Enhancing Cement Clinker Quality Prediction through Integrated Convolutional and Recurrent Neural Networks with Adversarial Data Augmentation," *Engineering Research Express*, 2025. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1568494624005465)
 
+3. **Y. Li** et al., "Collaborative optimization decision making of cement grinding process operational indicators considering dual dynamic problem," *Applied Soft Computing*, 2024. [ScienceDirect](https://doi.org/10.1016/j.asoc.2024.111772)
+
 > 📖 Full list available on [Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/0000-0002-6531-636X)
 
 ---
