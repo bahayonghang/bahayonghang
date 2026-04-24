@@ -14,7 +14,7 @@
             <text x="44" y="68" fill="#C9D1D9" font-size="12" font-weight="600">Rust</text>
             <rect x="150" y="57" width="190" height="10" rx="5" fill="#161B22" />
             <rect x="150" y="57" width="77" height="10" rx="5" fill="#58A6FF" />
-            <text x="390" y="68" fill="#8B949E" font-size="12" text-anchor="end">40.8%</text>
+            <text x="390" y="68" fill="#8B949E" font-size="12" text-anchor="end">40.9%</text>
             
             <circle cx="30" cy="88" r="5" fill="#F778BA" />
             <text x="44" y="92" fill="#C9D1D9" font-size="12" font-weight="600">TypeScript</text>
@@ -26,13 +26,13 @@
             <text x="44" y="116" fill="#C9D1D9" font-size="12" font-weight="600">Vue</text>
             <rect x="150" y="105" width="190" height="10" rx="5" fill="#161B22" />
             <rect x="150" y="105" width="33" height="10" rx="5" fill="#7EE787" />
-            <text x="390" y="116" fill="#8B949E" font-size="12" text-anchor="end">17.7%</text>
+            <text x="390" y="116" fill="#8B949E" font-size="12" text-anchor="end">17.8%</text>
             
             <circle cx="30" cy="136" r="5" fill="#FF7B72" />
             <text x="44" y="140" fill="#C9D1D9" font-size="12" font-weight="600">Python</text>
             <rect x="150" y="129" width="190" height="10" rx="5" fill="#161B22" />
             <rect x="150" y="129" width="29" height="10" rx="5" fill="#FF7B72" />
-            <text x="390" y="140" fill="#8B949E" font-size="12" text-anchor="end">15.8%</text>
+            <text x="390" y="140" fill="#8B949E" font-size="12" text-anchor="end">15.6%</text>
             
             <circle cx="30" cy="160" r="5" fill="#D2A8FF" />
             <text x="44" y="164" fill="#C9D1D9" font-size="12" font-weight="600">JavaScript</text>
