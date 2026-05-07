@@ -74,7 +74,7 @@
 
 ## 📚 Research & Publications
 
-🔍 **Research Interests**: Industrial Control · Deep Learning · Rust Systems Programming
+🔍 **Research Interests**: Industrial Control · Deep Learning 
 
 📄 **Selected Publications**:
 
