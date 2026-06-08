@@ -27,7 +27,7 @@
   <a href="https://github.com/bahayonghang">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
+  <a href="https://scholar.google.com/citations?hl=en&user=ktJA5QEAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="https://yourwebsite.com">
@@ -80,11 +80,13 @@
 
 1. **Y. Li** et al., "Predictive Monitoring of Industrial Processes and Quality Indices via Joint Training of Soft Sensor and Time-Series Forecasting," *IEEE Transactions on Industrial Informatics*, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11410600)
 
-2. **Y. Li** et al., "Enhancing Cement Clinker Quality Prediction through Integrated Convolutional and Recurrent Neural Networks with Adversarial Data Augmentation," *Engineering Research Express*, 2025. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1568494624005465)
+2. **Y. Li** et al., "Transformer-Based Prediction of Free Calcium Oxide in Cement Clinker with Channel-Spatial Dual-Attention Generative Adversarial Data Augmentation," *Journal of the Taiwan Institute of Chemical Engineers*, 2026.
 
-3. **Y. Li** et al., "Collaborative optimization decision making of cement grinding process operational indicators considering dual dynamic problem," *Applied Soft Computing*, 2024. [ScienceDirect](https://doi.org/10.1016/j.asoc.2024.111772)
+3. **Y. Li** et al., "Enhancing Cement Clinker Quality Prediction through Integrated Convolutional and Recurrent Neural Networks with Adversarial Data Augmentation," *Engineering Research Express*, 2025. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1568494624005465)
 
-> 📖 Full list available on [Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/0000-0002-6531-636X)
+4. **Y. Li** et al., "Collaborative optimization decision making of cement grinding process operational indicators considering dual dynamic problem," *Applied Soft Computing*, 2024. [ScienceDirect](https://doi.org/10.1016/j.asoc.2024.111772)
+
+> 📖 Full list available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ktJA5QEAAAAJ) · [ORCID](https://orcid.org/0000-0002-6531-636X)
 
 ---
 
