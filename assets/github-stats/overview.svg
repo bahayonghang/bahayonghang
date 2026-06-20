@@ -12,19 +12,19 @@
   
             <rect x="24" y="72" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
             <text x="40" y="90" fill="#8B949E" font-size="11">Followers</text>
-            <text x="40" y="107" fill="#58A6FF" font-size="18" font-weight="700">14</text>
+            <text x="40" y="107" fill="#58A6FF" font-size="18" font-weight="700">17</text>
             
             <rect x="220" y="72" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
             <text x="236" y="90" fill="#8B949E" font-size="11">Public Repos</text>
-            <text x="236" y="107" fill="#7EE787" font-size="18" font-weight="700">25</text>
+            <text x="236" y="107" fill="#7EE787" font-size="18" font-weight="700">26</text>
             
             <rect x="24" y="124" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
             <text x="40" y="142" fill="#8B949E" font-size="11">Stars Earned</text>
-            <text x="40" y="159" fill="#F778BA" font-size="18" font-weight="700">552</text>
+            <text x="40" y="159" fill="#F778BA" font-size="18" font-weight="700">577</text>
             
             <rect x="220" y="124" width="172" height="44" rx="12" fill="#161B22" stroke="#30363D" />
             <text x="236" y="142" fill="#8B949E" font-size="11">Merged PRs</text>
-            <text x="236" y="159" fill="#D2A8FF" font-size="18" font-weight="700">16</text>
+            <text x="236" y="159" fill="#D2A8FF" font-size="18" font-weight="700">17</text>
             
-  <text x="396" y="164" fill="#8B949E" font-size="10" text-anchor="end">Updated 2026-06-08 05:01 UTC</text>
+  <text x="396" y="164" fill="#8B949E" font-size="10" text-anchor="end">Updated 2026-06-15 05:27 UTC</text>
 </svg>
