@@ -1,6 +1,3 @@
-.omc/
-.omx/
-.trae/
 .vscode/settings.json
 *.env
 *.env.local
