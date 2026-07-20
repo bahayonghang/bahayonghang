@@ -46,6 +46,27 @@
 
 ---
 
+## 🔗 Code Agents
+
+Daily code-agent stack: **Codex, Claude Code, ChatGPT, and Orca.**
+
+<p>
+  <a href="https://openai.com/codex/">
+    <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex"/>
+  </a>
+  <a href="https://docs.anthropic.com/en/docs/claude-code/overview">
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code"/>
+  </a>
+  <a href="https://chatgpt.com/">
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://www.onorca.dev/">
+    <img src="https://img.shields.io/badge/Orca-FF6B6B?style=flat-square" alt="Orca"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -96,8 +117,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/github-stats/overview.svg" width="100%" alt="GitHub Overview" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
-      <p style="display:none; color:#888;">GitHub Overview (generate via GitHub Actions)</p>
+      <!-- Maintained, cached GitHub Readme Stats-compatible service. -->
+      <img src="https://github-stats-extended.vercel.app/api?username=bahayonghang&amp;show_icons=true&amp;theme=github_dark&amp;disable_animations=true" width="100%" alt="bahayonghang's GitHub Stats" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
+      <p style="display:none; color:#888;">GitHub Stats card unavailable</p>
     </td>
     <td align="center" width="50%">
       <img src="assets/github-stats/languages.svg" width="100%" alt="Top Languages" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
@@ -106,11 +128,7 @@
   </tr>
 </table>
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bahayonghang&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"/>
-  <p style="display:none; color:#888;">GitHub Streak Stats unavailable (service temporarily down)</p>
-</div>
+
 
 <!-- Featured Projects -->
 <div align="center" style="overflow-x: auto; max-width: 100%;">
